@@ -1,0 +1,65 @@
+Copyright © 2023-2026 L-Workshop. All rights reserved.
+
+This software is proprietary and confidential. Except as expressly permitted below,
+unauthorized copying, modification, distribution, or use is prohibited.
+
+Contact: L-Workshop (linguistic.digital.workshop@gmail.com)
+
+
+LIMITED GRANT FOR VERIFICATION OF THE ACCOMPANYING PAPER
+========================================================
+
+A snapshot of this software, frozen at a single recorded revision, is distributed as
+part of the research artifact accompanying the paper
+
+    "Call-by-Structure: Preserving Visual Structure During Evaluation of
+     Block-Based Programs"
+
+so that the source-level claims made in that paper can be checked against a fixed
+tree. With respect to that snapshot, and to no other version of this software,
+L-Workshop grants the following.
+
+1. DISTRIBUTION AS PART OF THE ARTIFACT. To the authors of that paper, and to any
+   publisher, conference, journal, or archive that hosts or preserves the artifact:
+   a non-exclusive, royalty-free, worldwide right to reproduce and distribute the
+   snapshot verbatim, as an integral part of that artifact and not as a standalone
+   work.
+
+2. RETENTION AND EXAMINATION. To any person who receives that artifact: a
+   non-exclusive, non-transferable, royalty-free right to retain a copy of the
+   snapshot and to read, build, execute, and test it, for the sole purpose of
+   examining, reproducing, or evaluating the claims made in that paper.
+
+   The right in (2) expressly includes the operations the artifact's own
+   documentation asks a reader to perform: installing its declared dependencies,
+   running its build, and running its test, conformance and table-generation
+   harnesses — including the λ_Vis conformance and paper-table harnesses the
+   artifact drives through ../run_blc.sh — together with the local build outputs
+   and regenerated data files those operations produce. It also extends to whatever
+   local, temporary modification is genuinely necessary to carry out such an
+   examination — for example instrumenting a file in order to observe its
+   behaviour. It does not permit distributing a modified copy.
+
+3. DURATION. The rights in (1) and (2) are perpetual and irrevocable with respect to
+   copies of the artifact already distributed, so that the published scientific
+   record remains verifiable.
+
+RESERVATION. All other rights are reserved. In particular, nothing above permits:
+use of this software, in whole or in part, in any other product, service, publication,
+or derivative work; redistribution of the snapshot apart from the artifact;
+sublicensing; removal or alteration of copyright or licence notices; or any commercial
+use. No rights are granted in any revision of this software other than the snapshot
+described above.
+
+THIRD-PARTY COMPONENTS. The bundled typefaces under src/assets/fonts/ are covered by
+their own licences, which ship beside them (Inter-LICENSE.txt and
+JetBrainsMono-LICENSE.txt, both SIL Open Font License 1.1) and are unaffected by the
+terms above. Declared npm dependencies are not distributed with this snapshot; they
+are installed by the reader under their own licences.
+
+NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL L-WORKSHOP BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
